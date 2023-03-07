@@ -20,7 +20,7 @@
 
 ## 运行流程
 
-本repo致力于为学习者提供一个在OpenI启智上可运行的《[动手学深度学习(PyTorch)](https://github.com/d2l-ai/d2l-zh)》的教程和环境. 推荐阅读[详细教程](./Tutorials.md)
+本repo致力于为学习者提供一个在[OpenI启智](https://openi.pcl.ac.cn/)上可运行的《[动手学深度学习(PyTorch)](https://github.com/d2l-ai/d2l-zh)》的教程和环境. 推荐阅读[详细教程](./Tutorials.md)
 
 1. fork本repo至自己名下
 2. 点击云脑，选择调试环境
@@ -32,8 +32,7 @@
 | 学习安排 | 预计开始时间 | 学习时长 | 分享嘉宾(待定) |
 | :----------: | :----------: | :----------: | :----------: |
 |《动手学深度学习》开场分享 | 3月18日 | 10分钟 | 李沐 |
-| 直播: 如何学深度学习 | 3月18日 | 30分钟 | 杨毅远
- | 
+| 直播: 如何学深度学习 | 3月18日 | 30分钟 | 杨毅远 | 
 | [Task01: 初识深度学习](./d2l-zh-2.0.0/pytorch/chapter_introduction/) | 3月19日 | 1天 | 助教团队|
 | [Task02: 预备知识](./d2l-zh-2.0.0/pytorch/chapter_preliminaries/) | 3月20日 | 2天 | 助教团队 |
 | 直播: 环境配置讲解 | 3月19日 | 1小时 | [丁一超](https://openi.pcl.ac.cn/JeffDing)、骆秀韬 |
